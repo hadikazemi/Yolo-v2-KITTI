@@ -1,2 +1,4 @@
 # Yolo-v2-KITTI
-Train and Test YOLO v2 on KITTI dataset
+Train and Test YOLOv2 on KITTI dataset.
+
+This repository is developed based on the implementation of YOLOv2 [(link)](https://github.com/longcw/yolo2-pytorch).
